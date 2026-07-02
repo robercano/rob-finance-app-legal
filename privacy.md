@@ -1,0 +1,1 @@
+Privacy policy — This application is operated by a single individual solely to access their own bank accounts for personal finance tracking (personal/household use). No third-party data is collected or processed. Account and transaction data is retrieved via Enable Banking's API and stored locally on the operator's own computer. Data is not shared, sold, or transmitted to anyone.
